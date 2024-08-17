@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.mavenstore.utilities.ExtentListenerClass"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.mavenstore.testcases.TC_VerifyUserLoginDataDriven">
+        <methods>
+          <include name="setup"/>
+          <include name="verifyUserLogin"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.mavenstore.testcases.TC_VerifyUserLoginDataDriven -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

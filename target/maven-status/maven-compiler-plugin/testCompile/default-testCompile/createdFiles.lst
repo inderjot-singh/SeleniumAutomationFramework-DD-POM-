@@ -1,0 +1,10 @@
+com\mavenstore\pageobjects\LoginPage.class
+com\mavenstore\testcases\TC_RegisterUser.class
+com\mavenstore\utilities\ReadExcelFile.class
+com\mavenstore\testcases\BaseClass.class
+com\mavenstore\pageobjects\LoggedInHomePage.class
+com\mavenstore\testcases\TC_VerifyUserLoginDataDriven.class
+com\mavenstore\testcases\TC_VerifyUserLogin.class
+com\mavenstore\utilities\ExtentListenerClass.class
+com\mavenstore\utilities\ReadConfig.class
+com\mavenstore\pageobjects\HomePage.class
